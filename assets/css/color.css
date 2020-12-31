@@ -13,15 +13,15 @@ a {
 }
 a:hover,
 a:focus {
-	color: #3b6eea;
+	color: #000000;
 }
 a.text-primary:hover,
 a.text-primary:focus {
-	color: #3b6eea!important;
+	color: #000000!important;
 }
 a.bg-primary:hover,
 a.bg-primary:focus {
-	background-color: #3b6eea!important;
+	background-color: #00000000!important;
 	color: #ffffff;
 }
 a.text-secondary:hover,
